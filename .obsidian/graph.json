@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "-file:/\\.err$/ -file:/\\.py$/ -file:/\\.out$/ -file:\"What's new\"",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:maps",
+      "color": {
+        "a": 1,
+        "rgb": 10066329
+      }
+    },
+    {
+      "query": "tag:#religion",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#anthropology",
+      "color": {
+        "a": 1,
+        "rgb": 15105570
+      }
+    },
+    {
+      "query": "tag:#ecology",
+      "color": {
+        "a": 1,
+        "rgb": 5025616
+      }
+    },
+    {
+      "query": "tag:#biology",
+      "color": {
+        "a": 1,
+        "rgb": 3447003
+      }
+    },
+    {
+      "query": "tag:#evolution",
+      "color": {
+        "a": 1,
+        "rgb": 10181046
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 0.511343833780161,
+  "lineSizeMultiplier": 0.708668453976765,
+  "collapse-forces": false,
+  "centerStrength": 0.6546581769437,
+  "repelStrength": 12.3906083244397,
+  "linkStrength": 0.900804289544236,
+  "linkDistance": 36,
+  "scale": 0.9584080859609676,
+  "close": true
+}

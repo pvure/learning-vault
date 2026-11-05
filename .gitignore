@@ -1,0 +1,18 @@
+# Personal content: never push
+Learning Log.md
+What's new.md
+notes/*
+sources/*
+maps/*
+meta/*
+!notes/.gitkeep
+!sources/.gitkeep
+!maps/.gitkeep
+!meta/.gitkeep
+
+# Obsidian per-device state
+.obsidian/workspace*.json
+
+# Mac / Python junk
+.DS_Store
+__pycache__/
